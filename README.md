@@ -63,8 +63,8 @@ This project utilizes the following technologies and tools:
 ## Insights & Results
 
 From the dashboard analysis, we discovered the following insights:
-- **High-value customer segments** contributed to 60% of total sales, suggesting targeted marketing efforts could be beneficial.
-- **Regional profit disparities** identified high-margin regions (cities) , enabling focused sales efforts to maximize profitability.
+- **High-value customer segments** contributed to 50-60% of total sales, suggesting targeted marketing efforts could be beneficial.
+- **Regional profit disparities** identified high-margin regions (cities: Narsi,Naigaon,Degloor,Mukhed) , enabling focused sales efforts to maximize profitability.
 
 These insights directly contributed to a **33% revenue increase** and a **30% profit boost** for the client by refining sales strategies and resource allocation.
 
