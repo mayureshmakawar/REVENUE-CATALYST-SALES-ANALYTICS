@@ -36,7 +36,7 @@ Here are a few previews of the dashboard’s main components to give you an idea
 ![Profit Analysis](https://github.com/mayureshmakawar/REVENUE-CATALYST-SALES-ANALYTICS/blob/main/Screenshot%202024-11-01%20211241.png)
 *Displays a comprehensive view of profit.*
 
-![Forecasting](  
+![Forecasting](https://github.com/mayureshmakawar/REVENUE-CATALYST-SALES-ANALYTICS/blob/main/Screenshot%202024-11-01%20211302.png)  
 *Predicts future sales trends using historical data.*
 
 ## Live Dashboard
