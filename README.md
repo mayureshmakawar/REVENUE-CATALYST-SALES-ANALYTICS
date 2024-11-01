@@ -30,13 +30,13 @@ The Power BI dashboard provides the following interactive features:
 
 Here are a few previews of the dashboard’s main components to give you an idea of the insights provided:
 
-![Sales Overview](https://github.com/mayureshmakawar/REVENUE-CATALYST-SALES-ANALYTICS/blob/main/Screenshot%202024-11-01%20211241.png)  
-*Displays a comprehensive view of monthly and quarterly sales performance.*
+![Sales Overview](https://github.com/mayureshmakawar/REVENUE-CATALYST-SALES-ANALYTICS/blob/main/Screenshot%202024-11-01%20211225.png)
+*Displays a comprehensive view of sales performance.*
 
-![Profit Analysis](link-to-screenshot3)  
-*Shows profit margins across different product categories.*
+![Profit Analysis](https://github.com/mayureshmakawar/REVENUE-CATALYST-SALES-ANALYTICS/blob/main/Screenshot%202024-11-01%20211241.png)
+*Displays a comprehensive view of profit.*
 
-![Forecasting](link-to-screenshot4)  
+![Forecasting](  
 *Predicts future sales trends using historical data.*
 
 ## Live Dashboard
