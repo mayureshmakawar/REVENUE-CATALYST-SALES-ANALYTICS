@@ -30,7 +30,7 @@ The Power BI dashboard provides the following interactive features:
 
 Here are a few previews of the dashboard’s main components to give you an idea of the insights provided:
 
-![Sales Overview](link-to-screenshot1)  
+![Sales Overview](https://github.com/mayureshmakawar/REVENUE-CATALYST-SALES-ANALYTICS/blob/main/Screenshot%202024-11-01%20211241.png)  
 *Displays a comprehensive view of monthly and quarterly sales performance.*
 
 ![Profit Analysis](link-to-screenshot3)  
